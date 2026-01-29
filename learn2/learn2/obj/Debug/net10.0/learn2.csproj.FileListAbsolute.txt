@@ -1,0 +1,14 @@
+E:\c#\ThaiTruongGiang\learn2\learn2\bin\Debug\net10.0\learn2.exe
+E:\c#\ThaiTruongGiang\learn2\learn2\bin\Debug\net10.0\learn2.deps.json
+E:\c#\ThaiTruongGiang\learn2\learn2\bin\Debug\net10.0\learn2.runtimeconfig.json
+E:\c#\ThaiTruongGiang\learn2\learn2\bin\Debug\net10.0\learn2.dll
+E:\c#\ThaiTruongGiang\learn2\learn2\bin\Debug\net10.0\learn2.pdb
+E:\c#\ThaiTruongGiang\learn2\learn2\obj\Debug\net10.0\learn2.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\ThaiTruongGiang\learn2\learn2\obj\Debug\net10.0\learn2.AssemblyInfoInputs.cache
+E:\c#\ThaiTruongGiang\learn2\learn2\obj\Debug\net10.0\learn2.AssemblyInfo.cs
+E:\c#\ThaiTruongGiang\learn2\learn2\obj\Debug\net10.0\learn2.csproj.CoreCompileInputs.cache
+E:\c#\ThaiTruongGiang\learn2\learn2\obj\Debug\net10.0\learn2.dll
+E:\c#\ThaiTruongGiang\learn2\learn2\obj\Debug\net10.0\refint\learn2.dll
+E:\c#\ThaiTruongGiang\learn2\learn2\obj\Debug\net10.0\learn2.pdb
+E:\c#\ThaiTruongGiang\learn2\learn2\obj\Debug\net10.0\learn2.genruntimeconfig.cache
+E:\c#\ThaiTruongGiang\learn2\learn2\obj\Debug\net10.0\ref\learn2.dll

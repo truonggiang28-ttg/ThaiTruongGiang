@@ -1,0 +1,14 @@
+E:\c#\learn1\learn1\obj\Debug\net10.0\learn1.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\learn1\learn1\obj\Debug\net10.0\learn1.AssemblyInfoInputs.cache
+E:\c#\learn1\learn1\obj\Debug\net10.0\learn1.AssemblyInfo.cs
+E:\c#\learn1\learn1\obj\Debug\net10.0\learn1.csproj.CoreCompileInputs.cache
+E:\c#\learn1\learn1\bin\Debug\net10.0\learn1.exe
+E:\c#\learn1\learn1\bin\Debug\net10.0\learn1.deps.json
+E:\c#\learn1\learn1\bin\Debug\net10.0\learn1.runtimeconfig.json
+E:\c#\learn1\learn1\bin\Debug\net10.0\learn1.dll
+E:\c#\learn1\learn1\bin\Debug\net10.0\learn1.pdb
+E:\c#\learn1\learn1\obj\Debug\net10.0\learn1.dll
+E:\c#\learn1\learn1\obj\Debug\net10.0\refint\learn1.dll
+E:\c#\learn1\learn1\obj\Debug\net10.0\learn1.pdb
+E:\c#\learn1\learn1\obj\Debug\net10.0\learn1.genruntimeconfig.cache
+E:\c#\learn1\learn1\obj\Debug\net10.0\ref\learn1.dll
