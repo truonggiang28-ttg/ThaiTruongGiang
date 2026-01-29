@@ -1,0 +1,14 @@
+E:\c#\bai6\bai6\bin\Debug\net10.0\bai6.exe
+E:\c#\bai6\bai6\bin\Debug\net10.0\bai6.deps.json
+E:\c#\bai6\bai6\bin\Debug\net10.0\bai6.runtimeconfig.json
+E:\c#\bai6\bai6\bin\Debug\net10.0\bai6.dll
+E:\c#\bai6\bai6\bin\Debug\net10.0\bai6.pdb
+E:\c#\bai6\bai6\obj\Debug\net10.0\bai6.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\bai6\bai6\obj\Debug\net10.0\bai6.AssemblyInfoInputs.cache
+E:\c#\bai6\bai6\obj\Debug\net10.0\bai6.AssemblyInfo.cs
+E:\c#\bai6\bai6\obj\Debug\net10.0\bai6.csproj.CoreCompileInputs.cache
+E:\c#\bai6\bai6\obj\Debug\net10.0\bai6.dll
+E:\c#\bai6\bai6\obj\Debug\net10.0\refint\bai6.dll
+E:\c#\bai6\bai6\obj\Debug\net10.0\bai6.pdb
+E:\c#\bai6\bai6\obj\Debug\net10.0\bai6.genruntimeconfig.cache
+E:\c#\bai6\bai6\obj\Debug\net10.0\ref\bai6.dll

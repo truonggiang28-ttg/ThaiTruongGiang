@@ -1,0 +1,14 @@
+E:\c#\bai9\bai9\bin\Debug\net10.0\bai9.exe
+E:\c#\bai9\bai9\bin\Debug\net10.0\bai9.deps.json
+E:\c#\bai9\bai9\bin\Debug\net10.0\bai9.runtimeconfig.json
+E:\c#\bai9\bai9\bin\Debug\net10.0\bai9.dll
+E:\c#\bai9\bai9\bin\Debug\net10.0\bai9.pdb
+E:\c#\bai9\bai9\obj\Debug\net10.0\bai9.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\bai9\bai9\obj\Debug\net10.0\bai9.AssemblyInfoInputs.cache
+E:\c#\bai9\bai9\obj\Debug\net10.0\bai9.AssemblyInfo.cs
+E:\c#\bai9\bai9\obj\Debug\net10.0\bai9.csproj.CoreCompileInputs.cache
+E:\c#\bai9\bai9\obj\Debug\net10.0\bai9.dll
+E:\c#\bai9\bai9\obj\Debug\net10.0\refint\bai9.dll
+E:\c#\bai9\bai9\obj\Debug\net10.0\bai9.pdb
+E:\c#\bai9\bai9\obj\Debug\net10.0\bai9.genruntimeconfig.cache
+E:\c#\bai9\bai9\obj\Debug\net10.0\ref\bai9.dll

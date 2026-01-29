@@ -1,0 +1,14 @@
+E:\c#\bai3\bai3\bin\Debug\net10.0\bai3.exe
+E:\c#\bai3\bai3\bin\Debug\net10.0\bai3.deps.json
+E:\c#\bai3\bai3\bin\Debug\net10.0\bai3.runtimeconfig.json
+E:\c#\bai3\bai3\bin\Debug\net10.0\bai3.dll
+E:\c#\bai3\bai3\bin\Debug\net10.0\bai3.pdb
+E:\c#\bai3\bai3\obj\Debug\net10.0\bai3.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\bai3\bai3\obj\Debug\net10.0\bai3.AssemblyInfoInputs.cache
+E:\c#\bai3\bai3\obj\Debug\net10.0\bai3.AssemblyInfo.cs
+E:\c#\bai3\bai3\obj\Debug\net10.0\bai3.csproj.CoreCompileInputs.cache
+E:\c#\bai3\bai3\obj\Debug\net10.0\bai3.dll
+E:\c#\bai3\bai3\obj\Debug\net10.0\refint\bai3.dll
+E:\c#\bai3\bai3\obj\Debug\net10.0\bai3.pdb
+E:\c#\bai3\bai3\obj\Debug\net10.0\bai3.genruntimeconfig.cache
+E:\c#\bai3\bai3\obj\Debug\net10.0\ref\bai3.dll
