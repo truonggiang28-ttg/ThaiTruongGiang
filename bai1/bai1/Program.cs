@@ -26,3 +26,4 @@ for (int i = 0; i < danhSachTu.Length; i++)
 }
 
 Console.WriteLine("ket qua: " + ketQua);
+Console.ReadKey();

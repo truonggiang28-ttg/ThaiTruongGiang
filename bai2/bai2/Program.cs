@@ -20,3 +20,4 @@ string[] words = chuoi.Split(
 );
 
 Console.WriteLine("So tu: " + words.Length);
+Console.ReadKey();
